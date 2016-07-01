@@ -1,0 +1,8 @@
+{
+  "name": "LitlePayPage",
+  "authors": [
+    "Litle & Co."
+  ],
+  "description": "Bower for LitlePayPage",
+  "main": "litle-api2.js"
+}
